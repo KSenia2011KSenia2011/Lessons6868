@@ -8,3 +8,4 @@ print(number+100)
 x=input("Введіть щось сюди:")
 print("Дякую! Ви ввели:")
 print(x)
+
